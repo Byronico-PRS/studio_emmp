@@ -48,9 +48,9 @@
  
 
 - Mover os arquivos para as pastas dentro da instalação do Reaper
- - Reapack na pasta UserPlugins
- - SWS Extensions na pasta do Reaper (Ele já vem separado em algumas pastas)
- - Reeq na pasta Effects
+  - Reapack na pasta UserPlugins
+  - SWS Extensions na pasta do Reaper (Ele já vem separado em algumas pastas)
+  - Reeq na pasta Effects
  
 
 ## Instalar o reeq
