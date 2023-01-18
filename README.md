@@ -1,18 +1,18 @@
 # Configurações Ubuntu Studio
 
-##Instalar brave
+## Instalar brave
 
 `sudo snap install brave`
 
-##Criar Atalhos 
+## Criar Atalhos 
 
-###Apps
+### Apps
 – Brave
 - Konsole
 - Libre Writer
 - Krunner
 
-###Kwin
+### Kwin
 - Fechar Janela
 - Mostrar area de trabalho
 - Mover janela para area de trabalho x
