@@ -1,4 +1,4 @@
-#### Configurações Ubuntu Studio
+# Configurações Ubuntu Studio
 
 ##Instalar brave
 
@@ -6,13 +6,13 @@
 
 ##Criar Atalhos 
 
-#Apps
+###Apps
 – Brave
 - Konsole
 - Libre Writer
 - Krunner
 
-#Kwin
+###Kwin
 - Fechar Janela
 - Mostrar area de trabalho
 - Mover janela para area de trabalho x
@@ -22,7 +22,7 @@
 
 `sudo apt install kwin-bismuth`
 
-#### Instalar repositorio dos kxstudio VER SITE
+## Instalar repositorio dos kxstudio VER SITE
 
 ## Remover avldrums com pau
 
