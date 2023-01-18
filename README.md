@@ -52,11 +52,7 @@
   - SWS Extensions na pasta do Reaper (Ele já vem separado em algumas pastas)
   - Reeq na pasta Effects
  
-
-## Instalar o reeq
-- Baixar os arquivos  `https://forum.cockos.com/showthread.php?t=213501`
-- Mover para a pasta Effects dentro das pastar do Reaper
-
 ## Instalar a suite tukan
-
+- No site do Reaper Stash `https://stash.reaper.fm/`
+- Procurar por Tukan plugins e copiar o endereço para o gerenciador de repositorios do reapack e então instalar os plugins
 
