@@ -40,11 +40,23 @@
 - Baixar o arquivo do site reaper.fm
 - Rodar o arquivo de instalação.
 
-## Instalar o sws e o reapack
+## Instalar o sws e o reapack reeq
 - Baixar os arquivos 
-- Colocar na pasta UserPlugins
+  - Reapack `https://reapack.com/`
+  - SWS Extensions `https://www.sws-extension.org/`
+  - Reeq `https://forum.cockos.com/showthread.php?t=213501`
+ 
+
+- Mover os arquivos para as pastas dentro da instalação do Reaper
+ - Reapack na pasta UserPlugins
+ - SWS Extensions na pasta do Reaper (Ele já vem separado em algumas pastas)
+ - Reeq na pasta Effects
+ 
 
 ## Instalar o reeq
-- Baixar os arquivos
+- Baixar os arquivos  `https://forum.cockos.com/showthread.php?t=213501`
 - Mover para a pasta Effects dentro das pastar do Reaper
+
+## Instalar a suite tukan
+
 
