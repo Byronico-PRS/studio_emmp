@@ -7,7 +7,7 @@
 ## Criar Atalhos 
 
 ### Apps
-– Brave
+- Brave
 - Konsole
 - Libre Writer
 - Krunner
