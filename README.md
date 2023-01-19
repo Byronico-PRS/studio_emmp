@@ -59,7 +59,7 @@ sudo apt install kxstudio-meta-audio-plugins-collection cadence gxplugins
 - Baixar os arquivos 
   - [Reapack](https://reapack.com/)
   - [SWS Extensions](https://www.sws-extension.org/)
-  - [Reeq](https://forum.cockos.com/showthread.php?t=21350)
+  - [Reeq](https://forum.cockos.com/showthread.php?t=213501)
  
 
 - Mover os arquivos para as pastas dentro da instalação do Reaper
