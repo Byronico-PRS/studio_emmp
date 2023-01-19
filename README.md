@@ -56,3 +56,5 @@
 - No site do Reaper Stash `https://stash.reaper.fm/`
 - Procurar por Tukan plugins e copiar o endereço para o gerenciador de repositorios do reapack e então instalar os plugins
 
+## Instalar Wine LinVST e rodar um plugin de windows no reaper
+
