@@ -57,9 +57,9 @@ sudo apt install kxstudio-meta-audio-plugins-collection cadence gxplugins
 
 ## Instalar o sws e o reapack reeq
 - Baixar os arquivos 
-  - [Reapack] (https://reapack.com/)
-  - [SWS Extensions] (https://www.sws-extension.org/)
-  - [Reeq] (https://forum.cockos.com/showthread.php?t=21350)
+  - [Reapack](https://reapack.com/)
+  - [SWS Extensions](https://www.sws-extension.org/)
+  - [Reeq](https://forum.cockos.com/showthread.php?t=21350)
  
 
 - Mover os arquivos para as pastas dentro da instalação do Reaper
@@ -68,7 +68,7 @@ sudo apt install kxstudio-meta-audio-plugins-collection cadence gxplugins
   - Reeq na pasta Effects
  
 ## Instalar a suite tukan
-- No site do [Reaper Stash] (https://stash.reaper.fm/)
+- No site do [Reaper Stash](https://stash.reaper.fm/)
 - Procurar por Tukan plugins e copiar o endereço para o gerenciador de repositorios do reapack e então instalar os plugins
 
 ## Instalar Wine LinVST e rodar um plugin de windows no reaper
@@ -76,7 +76,7 @@ sudo apt install kxstudio-meta-audio-plugins-collection cadence gxplugins
 ```
 sudo apt wine winetricks
 ```
-- Baixar o binário do [LinVST] (https://github.com/osxmidi/LinVst/releases)
+- Baixar o binário do [LinVST](https://github.com/osxmidi/LinVst/releases)
   - seguir as isntruçoes do linvst copiando os arquivos corretos para a pasta /usr/bin
   
 
