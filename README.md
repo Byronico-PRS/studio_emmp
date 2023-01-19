@@ -1,5 +1,9 @@
 # Configurações Ubuntu Studio
 
+## Verificar a necessidade de drivers e instalar
+
+`sudo ubuntu-drivers autoinstall`
+
 ## Instalar brave
 
 `sudo snap install brave`
@@ -57,4 +61,10 @@
 - Procurar por Tukan plugins e copiar o endereço para o gerenciador de repositorios do reapack e então instalar os plugins
 
 ## Instalar Wine LinVST e rodar um plugin de windows no reaper
+- Instalar o wine e o winetricks
+`sudo apt wine winetricks`
+- Baixar o binário do LinVST
+`https://github.com/osxmidi/LinVst/releases`
+  - seguir as isntruçoes do linvst copiando os arquivos corretos para a pasta /usr/bin
+  
 
