@@ -79,6 +79,6 @@ sudo apt install kxstudio-meta-audio-plugins-collection cadence gxplugins
 sudo apt install wine winetricks
 ```
 - Baixar o binário do [LinVST](https://github.com/osxmidi/LinVst/releases)
-  - seguir as isntruçoes do linvst copiando os arquivos corretos para a pasta /usr/bin
+  - seguir as [instruções](https://github.com/osxmidi/LinVst/wiki) do linvst copiando os arquivos corretos para a pasta /usr/bin
   
 
