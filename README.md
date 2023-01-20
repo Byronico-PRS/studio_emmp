@@ -74,7 +74,7 @@ sudo apt install kxstudio-meta-audio-plugins-collection cadence gxplugins
 ## Instalar Wine LinVST e rodar um plugin de windows no reaper
 - Instalar o wine e o winetricks
 ```
-sudo apt wine winetricks
+sudo apt install wine winetricks
 ```
 - Baixar o binário do [LinVST](https://github.com/osxmidi/LinVst/releases)
   - seguir as isntruçoes do linvst copiando os arquivos corretos para a pasta /usr/bin
