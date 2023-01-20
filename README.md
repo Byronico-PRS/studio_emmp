@@ -5,6 +5,12 @@
 sudo ubuntu-drivers autoinstall
 ```
 
+## Remover avldrums com pau
+
+```
+sudo apt remove avldrums.lv2 avldrums.lv2-soundfont
+```
+
 ## Instalar brave
 
 ```
@@ -33,11 +39,6 @@ sudo apt install kwin-bismuth
 
 ## Instalar repositorio dos kxstudio VER SITE
 
-## Remover avldrums com pau
-
-```
-sudo apt remove avldrums.lv2 avldrums.lv2-soundfont
-```
 
 ## Instalar Bismuth
 
