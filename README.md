@@ -37,7 +37,8 @@ sudo snap install brave
 sudo apt install kwin-bismuth
 ```
 
-## Instalar repositorio dos kxstudio VER SITE
+## Instalar repositorio dos kxstudio
+ - [Instruções](https://kx.studio/Repositories)
 
 
 ## Instalar Bismuth
