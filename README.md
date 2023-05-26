@@ -13,6 +13,11 @@ sudo apt remove avldrums.lv2 avldrums.lv2-soundfont
 ## Instalar repositorio dos kxstudio
  - [Instruções](https://kx.studio/Repositories)
 
+Para deixar o repositório funcional, não se esqueça de fazer um update do apt.
+```
+sudo apt update
+```
+
 
 ## Instalar suite kx e suite cadence
 
