@@ -36,10 +36,15 @@ export NIXPKGS_ALLOW_UNFREE=1
 E para instalar os pacotes:
 
 [Brave](https://brave.com/pt-br/) - Browser para navegação na Internet
+
 [Reaper](https://www.reaper.fm/) - DAW para trabalho com áudio
+
 [Timeshift](https://github.com/teejee2008/timeshift) - Para criar pontos de restauração do seu sistema
+
 [Vscode](https://code.visualstudio.com/) - Editor de texto
+
 [Neofetch](https://github.com/dylanaraps/neofetch) - App que traz informações do seu sistema pelo terminal
+
 
 ```
 nix-env -iA nixpkgs.brave nixpkgs.reaper nixpkgs.timeshift nixpkgs.vscode nixpkgs.neofetch
