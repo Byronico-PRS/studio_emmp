@@ -74,27 +74,23 @@ os arquvos executáveis de cada pacote são:
   - [Reeq](https://forum.cockos.com/showthread.php?t=213501)
  
 ### Mover os arquivos para as pastas dentro da instalação do Reaper
+ Lembre-se de procurar a pasta de instalação do reaper dentro do próprio reaper na opção:
+ 
+ >Options>Show REAPER resource path in explorer
+  
   - Reapack na pasta UserPlugins
   - SWS Extensions na pasta do Reaper (Ele já vem separado em algumas pastas)
   - Reeq na pasta Effects
 
-### Kwin
-- Fechar Janela
-- Mostrar area de trabalho
-- Mover janela para area de trabalho x
-- Mudar para area de trabalho x
-
-
-## Instalar Bismuth
-
-```
-sudo apt install kwin-bismuth
-```
-
  
 ## Instalar a suite tukan
+ Suite de plugins para o reaper:
+ 
 - No site do [Reaper Stash](https://stash.reaper.fm/)
 - Procurar por Tukan plugins e copiar o endereço para o gerenciador de repositorios do reapack e então instalar os plugins
+
+ 
+Se você pretende rodar algum app para windows ou plugins para windows não se esqueça:
 
 ## Instalar Wine LinVST e rodar um plugin de windows no reaper
 - Instalar o wine e o winetricks
@@ -104,4 +100,19 @@ sudo apt install wine winetricks
 - Baixar o binário do [LinVST](https://github.com/osxmidi/LinVst/releases)
   - seguir as [instruções](https://github.com/osxmidi/LinVst/wiki) do linvst copiando os arquivos corretos para a pasta /usr/bin
   
+## Configurar seu workflow no Plasma
+Cada pessoa tem a sua maneira de trabalhar, aquie só escrevi minhas configurações para não me esquecer 
+
+
+## Instalar Bismuth
+
+```
+sudo apt install kwin-bismuth
+```
+### Kwin
+- Fechar Janela
+- Mostrar area de trabalho
+- Mover janela para area de trabalho x
+- Mudar para area de trabalho x
+
 
