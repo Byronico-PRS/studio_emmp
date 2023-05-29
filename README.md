@@ -115,7 +115,7 @@ O que por enquanto não funcionou para mim.
 Ou colar odiretório lib em sua home e entrar no reaper com o seguinte comando: 
 
 ```
-LD_LIBRARY_PATH=~/ffmpeg/lib reaper
+LD_LIBRARY_PATH=~/lib reaper
  ```
 Se você pretende rodar algum app para windows ou plugins para windows não se esqueça:
 
