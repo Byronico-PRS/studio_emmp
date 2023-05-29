@@ -112,7 +112,7 @@ os arquvos executáveis de cada pacote são:
 
 O que por enquanto não funcionou para mim.
 
-Ou colar odiretório lib em sua home e entrar no reaper com o seguinte comando: 
+O que fiz que funcionou foi endereçar o reaper apra procurar os arquivos necessários na pasts /lib/ do ffmpeg que baixei usando o comando:
 
 ```
 LD_LIBRARY_PATH=~/lib reaper
