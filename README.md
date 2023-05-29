@@ -94,7 +94,29 @@ os arquvos executáveis de cada pacote são:
 - No site do [Reaper Stash](https://stash.reaper.fm/)
 - Procurar por Tukan plugins e copiar o endereço para o gerenciador de repositorios do reapack e então instalar os plugins
 
+## Video no Reaper
+
+ Para editar e renderizar videos no reaper você precisa ter instalado o VLC e o FFMPEG.
+ Nunca tive problemas com o Reaper em ele reconhecer o VLC mas geralmente ele nunca encontra os arquivos do ffmpeg mesmo eu tentando instalar e reinstalar de várias formas.
+ Para fazer funcionar primeiramente baixer a build do ffmpeg para linux.
  
+ Essa é a versão que deu certo para mim, mas pode ser que outras funcionem melhor:
+  
+ https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n4.4-latest-linux64-lgpl-shared-4.4.tar.xz
+ 
+ Extrair os arquivos e ou colcar os arquvios da pasta /lib na pasta /usr/lib/x86_64-linux-gnu/ com por exemplo o comando:
+
+ ```
+ sudo cp ffmpeg-version-path-downloaded/lib/lib*.so* /usr/lib/x86_64-linux-gnu/
+```
+
+O que por enquanto não funcionou para mim.
+
+Ou colar odiretório lib em sua home e entrar no reaper com o seguinte comando: 
+
+```
+LD_LIBRARY_PATH=~/ffmpeg/lib reaper
+ ```
 Se você pretende rodar algum app para windows ou plugins para windows não se esqueça:
 
 ## Instalar Wine LinVST e rodar um plugin de windows no reaper
