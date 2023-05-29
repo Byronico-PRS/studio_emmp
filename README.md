@@ -117,9 +117,13 @@ O que fiz que funcionou foi endereçar o reaper apra procurar os arquivos necess
 ```
 LD_LIBRARY_PATH=~/lib reaper
  ```
-Se você pretende rodar algum app para windows ou plugins para windows não se esqueça:
+ 
+No caso criei um scrip para rodar o reaper com esse comando direto do lançador, também deixei o diretorio oculto no sistema para não ter problema.
+
 
 ## Instalar Wine LinVST e rodar um plugin de windows no reaper
+
+Se você pretende rodar algum app para windows ou plugins para windows não se esqueça:
 - Instalar o wine e o winetricks
 ```
 sudo apt install wine winetricks
