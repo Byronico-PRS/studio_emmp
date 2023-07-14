@@ -121,7 +121,9 @@ LD_LIBRARY_PATH=~/lib reaper
 No caso criei um scrip para rodar o reaper com esse comando direto do lançador, também deixei o diretorio oculto no sistema para não ter problema.
 
 
-## Instalar Wine LinVST e rodar um plugin de windows no reaper
+## Instalar Wine LinVST e rodar um plugin de windows no reaper TENHO USDO O YARDBRIDGEe tenho melhores resultados
+
+
 
 Se você pretende rodar algum app para windows ou plugins para windows não se esqueça:
 - Instalar o wine e o winetricks
